@@ -1,3 +1,5 @@
+<p href="https://github.com/guguss-31"> By Guguss-31 <img width=50 height=50 src="https://github.com/user-attachments/assets/51a06c45-16a4-4437-babc-62760ca69abd"/></p>
+
 <p align="center">
   <img alt="Morpion" src="https://github.com/user-attachments/assets/59fd4add-98e0-4324-ab3f-b1e04ebe4f8a" width="500px" />
   <h1 align="center">Morpion</h1>
